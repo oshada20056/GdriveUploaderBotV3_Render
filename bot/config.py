@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "6088041437:AAF_MqVbJYDbKbWM3qY-BnQxgY1ydDT9KRI"
-    APP_ID = "10112326"
-    API_HASH = "76b4e277c75aaf991589d78eca42946a"
-    DATABASE_URL = ""
-    SUDO_USERS = "5227230295" # Sepearted by space.
+    BOT_TOKEN = "6009544420:AAGBcA3aomfAwmmJV5wE5vgLISzIlnosuE0"
+    APP_ID = "8802706"
+    API_HASH = "97546900397a98f481bfb8252b1ac4f4"
+    DATABASE_URL = "mongodb+srv://gberube:fucker83@cluster0.tnia6.mongodb.net/?retryWrites=true&w=majority"
+    SUDO_USERS = "1281749717" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "564756005768-5vf0hs66doiptjr9304u9busj2kf4p8d.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = "947160787098-20eps4l240pra13bsafbeeuk32afrfaa.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
  
 
 class BotCommands:
@@ -39,7 +39,7 @@ class Messages:
         
         # Dont remove this ↓ if you respect developer.
          
-        "**Join Channel @drivetalkchannel**"
+        "**Join Channel @modbots**"
         ]
      
     RATE_LIMIT_EXCEEDED_MESSAGE = "❗ **Rate Limit Exceeded.**\n__User rate limit exceeded try after 24 hours.__"
