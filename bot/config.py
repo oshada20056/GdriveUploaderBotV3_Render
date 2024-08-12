@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "6088041437:AAF_MqVbJYDbKbWM3qY-BnQxgY1ydDT9KRI"
-    APP_ID = "10112326"
-    API_HASH = "76b4e277c75aaf991589d78eca42946a"
-    DATABASE_URL = "postgresql://postgres:mTgsSuuNvwrSak1rxnXW@containers-us-west-198.railway.app:7176/railway"
-    SUDO_USERS = "5227230295" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+      BOT_TOKEN = "6234064473:AAE8cTNtmnVuwEYZKZCmMdCn4KUW0FwBJN0"
+    APP_ID = "21204722"
+    API_HASH = "4f5b4bbc15e7f9df9961ac92e8fd219b"
+    DATABASE_URL = "postgres://koyeb-adm:zgbBy4EGDUX7@ep-dark-dream-a2zqw90y.eu-central-1.pg.koyeb.app/koyebdb"
+    SUDO_USERS = "5310455183" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "564756005768-5vf0hs66doiptjr9304u9busj2kf4p8d.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = "1053127391150-16oi0pb44dtj23v8vt6tmudn73q38v9j.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
+    SUPPORT_CHAT_LINK = "t.me/filmstudildl"
  
 
 class BotCommands:
