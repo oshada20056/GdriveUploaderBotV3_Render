@@ -1,6 +1,6 @@
 class config:
-      BOT_TOKEN = "6234064473:AAE8cTNtmnVuwEYZKZCmMdCn4KUW0FwBJN0"
-    APP_ID = "21204722"
+    BOT_TOKEN = "6234064473:AAE8cTNtmnVuwEYZKZCmMdCn4KUW0FwBJN0"
+    APP_ID = '21204722'
     API_HASH = "4f5b4bbc15e7f9df9961ac92e8fd219b"
     DATABASE_URL = "postgres://koyeb-adm:zgbBy4EGDUX7@ep-dark-dream-a2zqw90y.eu-central-1.pg.koyeb.app/koyebdb"
     SUDO_USERS = "5310455183" # Sepearted by space.
